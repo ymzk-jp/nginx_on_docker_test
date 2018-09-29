@@ -1,0 +1,20 @@
+{
+  "name": "nginx_on_docker_test",
+  "version": "1.0.0",
+  "description": "\"# nginx_on_docker_test\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymzk-jp/nginx_on_docker_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymzk-jp/nginx_on_docker_test/issues"
+  },
+  "homepage": "https://github.com/ymzk-jp/nginx_on_docker_test#readme"
+}
